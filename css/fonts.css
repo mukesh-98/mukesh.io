@@ -1,0 +1,118 @@
+/*--------------*/
+
+@font-face{
+    font-family:Abel;
+    src: url('../fonts/Abel/Abel-Regular.ttf');
+}
+
+
+/*--------------*/
+@font-face{
+    font-family:AmaticSC-Bold;
+    src: url('../fonts/Amatic_SC/AmaticSC-Bold.ttf');
+}
+
+@font-face{
+    font-family:AmaticSC-Regular;
+    src: url('../fonts/Amatic_SC/AmaticSC-Regular.ttf');
+}
+
+/*--------------*/
+@font-face{
+    font-family:Anton-Regular;
+    src: url('../fonts/Anton/Anton-Regular.ttf');
+}
+/*--------------*/
+@font-face{
+    font-family:DancingScript-VariableFont_wght;
+    src: url('../fonts/Dancing_Script/DancingScript-VariableFont_wght.ttf');
+}
+
+
+/*--------------*/
+@font-face{
+    font-family:JosefinSans-Bold;
+    src: url('../fonts/Josefin_Sans/JosefinSans-Bold.ttf');
+}
+@font-face{
+    font-family:JosefinSans-BoldItalic;
+    src: url('../fonts/Josefin_Sans/JosefinSans-BoldItalic.ttf');
+}
+
+@font-face{
+    font-family:JosefinSans-Italic;
+    src: url('../fonts/Josefin_Sans/JosefinSans-Italic.ttf');
+}
+@font-face{
+    font-family:JosefinSans-LightItalic;
+    src: url('../fonts/Josefin_Sans/JosefinSans-LightItalic.ttf');
+}
+
+@font-face{
+    font-family:JosefinSans-Regular;
+    src: url('../fonts/Josefin_Sans/JosefinSans-Regular.ttf');
+}
+@font-face{
+    font-family:JosefinSans-SemiBold;
+    src: url('../fonts/Josefin_Sans/JosefinSans-SemiBold.ttf');
+}
+@font-face{
+    font-family:JosefinSans-SemiBoldItalic;
+    src: url('../fonts/Josefin_Sans/JosefinSans-SemiBoldItalic.ttf');
+}
+@font-face{
+    font-family:BarCode;
+    src: url('../fonts/Libre_Barcode_39_Text/LibreBarcode39Text-Regular.ttf');
+}
+@font-face{
+    font-family:Space;
+    src: url('../fonts/Space_Mono/SpaceMono-Regular.ttf');
+}
+/*--------------*/
+@font-face{
+    font-family:Livvic-Black;
+    src: url('../fonts/Livvic/Livvic-Black.ttf');
+}
+
+@font-face{
+    font-family:Livvic-BlackItalic;
+    src: url('../fonts/Livvic/Livvic-BlackItalic.ttf');
+}
+
+@font-face{
+    font-family:Livvic-BoldItalic;
+    src: url('../fonts/Livvic/Livvic-BoldItalic.ttf');
+}
+
+@font-face{
+    font-family:Livvic-Regular;
+    src: url('../fonts/Livvic/Livvic-Regular.ttf');
+}
+
+
+@font-face{
+    font-family:Lobster-Regular;
+    src: url('../fonts/Lobster/Lobster-Regular.ttf');
+}
+/*--------------*/
+@font-face{
+    font-family:MaShanZheng-Regular;
+    src: url('../fonts/Ma_Shan_Zheng/MaShanZheng-Regular.ttf');
+}
+
+/*--------------*/
+@font-face{
+    font-family:OpenSansCondensed-Bold;
+    src: url('../fonts/Open_Sans_Condensed/OpenSansCondensed-Bold.ttf');
+}
+
+@font-face{
+    font-family:OpenSansCondensed-Light;
+    src: url('../fonts/Open_Sans_Condensed/OpenSansCondensed-Light.ttf');
+}
+
+/*--------------*/
+@font-face{
+    font-family:Pacifico-Regular;
+    src: url('../fonts/Pacifico/Pacifico-Regular.ttf');
+}
