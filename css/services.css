@@ -126,7 +126,7 @@ background-image: linear-gradient(315deg, #f3e6e8 0%, #d5d0e5 74%);
 background-image: linear-gradient(315deg, #f3e6e8 0%, #d5d0e5 74%);
 
     padding: 5rem 8rem;
-    width: 90rem;
+    width: 100%;
     font-family: var(--f3);
     margin-bottom: 5rem;
 
